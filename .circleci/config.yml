@@ -1,6 +1,6 @@
 version: 2.1
 
-worklows:
+workflows:
   test-node-workflow:
     jobs:
       - test-node-job
